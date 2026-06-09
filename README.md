@@ -1,5 +1,9 @@
-## Hi there 👋
-
+# Hi there 👋
+### I am a Senior Test Lead with 15+ years of experience delivering large scale, complex testing
+### deliveries across UK public sector, healthcare, finance, and retail. Specialist in test
+### strategy, test leadership, and modern automation frameworks (Python Behave, Cypress,
+### Playwright). Proven ability to build and lead global QA teams, define test architecture, and
+### implement shift-left testing and AI driven test automation.
 <!--
 **anosaini/anosaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
